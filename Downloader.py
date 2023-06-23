@@ -59,7 +59,7 @@ def main():
     
     # Download the file using the proxy downloader
     # Remember to download only legal files with proper license!
-    downloader.download("https://media.tenor.com/AQecc2g8uuAAAAAC/duck-dance.gif")
+    downloader.download("https://example.com/duck.gif")
 
 # Check if the current module is being executed as the main program
 if __name__ == "__main__":
